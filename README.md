@@ -11,4 +11,3 @@ Windows desktop application for a driving school, made for my HCI module.
 - VB.NET
 - Windows Forms (.NET 8)
 
-## Screenshots
